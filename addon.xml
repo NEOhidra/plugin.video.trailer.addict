@@ -19,6 +19,7 @@
     <description lang="en">Watch movie trailers for upcoming, new and classic films.</description>
     <platform>all</platform>
 	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	<website>https://code.google.com/p/plugin</website>
 	<source>https://github.com/stacked/plugin.video.trailer.addict</source>
 	<forum>http://forum.xbmc.org/showthread.php?tid=53821</forum>
